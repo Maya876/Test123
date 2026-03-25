@@ -20,3 +20,6 @@ p{
     src: url(./fonts/Ole-Regular.ttf);
 }
 
+.button{
+    width: 20vb;
+}
