@@ -6,6 +6,10 @@ p{
 
 #hahn{
     width: 10vh;
-    opacity: 50%;
     border: 2px solid black;
+}
+
+#container{
+    display:flex;
+    justify-content: left;
 }
