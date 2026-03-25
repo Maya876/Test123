@@ -2,6 +2,7 @@ p{
     color: rgb(78, 24, 129);
     font-size: 5vh;
     background-color: rgb(255, 255, 220);
+    font-family: myfont;
 }
 
 #hahn{
@@ -13,3 +14,9 @@ p{
     display:flex;
     justify-content: left;
 }
+
+@font-face{
+    font-family: myfont;
+    src: url(./fonts/Ole-Regular.ttf);
+}
+
